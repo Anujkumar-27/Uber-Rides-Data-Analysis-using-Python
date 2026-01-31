@@ -65,8 +65,3 @@ Ride counts are significantly lower during winter months (Nov–Jan)
 
 This analysis highlights how Uber ride usage varies by time, purpose, distance, and season. Through effective data preprocessing and visualization, meaningful patterns were uncovered that reflect real-world user behavior. The project demonstrates strong skills in data cleaning, exploratory analysis, feature engineering, and visual storytelling using Python.
 
-🧾 Resume-Ready “Key Insights / Conclusion” Section
-
-You can paste this directly into your resume project description:
-
-Conducted exploratory data analysis on Uber ride data using Python to identify ride behavior patterns. Discovered that business rides dominate overall usage, with peak demand during afternoon hours and weekdays. Analysis showed most trips fall within 0–20 miles, particularly 4–5 miles, and ride activity decreases significantly during winter months. Utilized data visualization and feature engineering techniques to derive actionable insights.
